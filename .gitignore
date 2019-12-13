@@ -1,0 +1,9 @@
+# project
+_site
+Gemfile.lock
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
