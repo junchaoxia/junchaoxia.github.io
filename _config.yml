@@ -36,7 +36,8 @@ navbar-links:
     - NMR Calculation: "nmr_relaxations" 
     - Multidomain Dynamics: "multidomains_dynamics" 
     - Conformational Search: "sugar_ensemble" 
-
+    - Earthquake Modeling: "earthquake_simulation"
+    - Simulation of Liquids: "liquid_materials" 
   Publication: "publications"
   Teaching: "teaching" 
 #  Resources:
