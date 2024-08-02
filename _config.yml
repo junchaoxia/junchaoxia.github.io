@@ -79,13 +79,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false
-#  email: "someone@example.com"
+  email: "mailto:junchao.xia@eyesopen.com"
 #  facebook:
-  github: "junchaoxia" 
+  github: "https://github.com/junchaoxia" 
 #  twitter:
 #  reddit:
 #  google-plus:
-  linkedin: "junchao-xia-99986520"
+  linkedin: "https://www.linkedin.com/in/junchao-xia-99986520"
 #  xing:
 #  stackoverflow:
 #  snapchat:
